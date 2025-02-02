@@ -46,14 +46,9 @@ This portfolio presents a variety of projects that highlight my skills in the da
 
 
 ### 1. AI Chatbot for KMUTT Archive Storytelling
-**Code:**
-
-**Description:**
-
-**Goal:**
-
-**Skills**
-
-**Technology**
-
-**Results**
+**Code:** https://github.com/kookwangs/AIChatbotForArchiveStoryTelling <br>
+**Description:** <br>
+**Goal:** <br>
+**Skills** <br>
+**Technology** <br>
+**Results** <br>
