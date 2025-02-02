@@ -46,4 +46,14 @@ This portfolio presents a variety of projects that highlight my skills in the da
 
 
 ### 1. AI Chatbot for KMUTT Archive Storytelling
+**Code:**
 
+**Description:**
+
+**Goal:**
+
+**Skills**
+
+**Technology**
+
+**Results**
