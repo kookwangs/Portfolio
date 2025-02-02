@@ -3,13 +3,13 @@ This repository presents my information, skills, and projects while tracking my 
 
 
 ## About me
-Based: Nonthaburi, Thailand <br>
-Current Role: Aspiring Database Engineer, Data Enthusiast <br>
-Email: kunanya.khu@gmail.com <br>
-LinkedIn: www.linkedin.com/in/kunanya-khuntiptong <br>
+**Based:** Nonthaburi, Thailand <br>
+**Current Role:** Aspiring Database Engineer, Data Enthusiast <br>
+**Email:** kunanya.khu@gmail.com <br>
+**LinkedIn:** www.linkedin.com/in/kunanya-khuntiptong <br>
 
 
-Hello! I'm Kunanya Khuntiptong, a recent Computer Engineering graduate passionate about data and its potential to solve complex problems. Throughout my academic journey, I’ve built a strong foundation in software development, systems engineering, and data management. With a special interest in database technologies, I’m currently pursuing a career in Database Engineering, where I can use my technical skills and problem-solving abilities to create efficient data solutions.
+Hello! I'm Kunanya Khuntiptong, a recent Computer Engineering graduate passionate about data and its potential to solve complex problems. Throughout my academic journey, I’ve built a strong foundation in software development, systems engineering, and data management. With a special interest in database technologies, I’m currently **pursuing a career in Database Engineering**, where I can use my technical skills and problem-solving abilities to create efficient data solutions.
 
 
 During my time at KMUTT, I explored various fields, including web development, AI, and data science. However, I found myself most drawn to the data field. Writing SQL felt both fun and challenging, especially when working with large datasets and uncovering meaningful insights. I enjoyed designing database structures for different projects and requirements, and working with both relational and NoSQL databases. Through hands-on experience in course projects, I discovered how much I liked solving data-related problems and helping others with database design.
