@@ -30,3 +30,20 @@ I understand that real-world projects are much more complex than coursework, wit
 
 ## Projects
 This portfolio presents a variety of projects that highlight my skills in the data field and coding. Below, you’ll find detailed files and explanations for each project, reflecting my practical experience and problem-solving abilities.
+
+
+### Table of Contents
+- [**AI Chatbot for KMUTT Archive Storytelling**](https://github.com/kookwangs/AIChatbotForArchiveStoryTelling) <br>
+        AI-powered chatbot for the KMUTT archive, enhancing document search and retrieval using BERT and GPT models to provide human-like responses.
+- [**MERJE**](https://github.com/kookwangs/MERJECinema) <br>
+        A movie ticket booking system with a designed database and user interface, incorporating theater locations, payment processing, and user reward points.
+- [**OLAVAN**](https://github.com/kookwangs/OLAVAN) <br>
+        A rhythm-based game for visually impaired players, using sound as a guide to improve accessibility and enjoyment.
+- [**Hands Up**](https://github.com/kookwangs/HandsUpGameProject) <br>
+        A rhythm game where players score points to the beat, choose songs and difficulty levels, and play using a Kinect Sensor on a computer.
+- [**Discord Bot**](https://github.com/kookwangs/discordBot) <br>
+        A Discord bot named JAEW, created as a fun AI sister to respond to messages, test new features, and improve my coding skills.
+
+
+### 1. AI Chatbot for KMUTT Archive Storytelling
+
