@@ -46,9 +46,84 @@ This portfolio presents a variety of projects that highlight my skills in the da
 
 
 ### 1. AI Chatbot for KMUTT Archive Storytelling
-**Code:** https://github.com/kookwangs/AIChatbotForArchiveStoryTelling <br>
-**Description:** <br>
-**Goal:** <br>
-**Skills** <br>
-**Technology** <br>
-**Results** <br>
+**Code:** https://github.com/kookwangs/AIChatbotForArchiveStoryTelling 
+
+
+**Description:** An AI-powered chatbot designed to improve information retrieval from the KMUTT archive by enabling human-like interactions and storytelling responses.
+
+
+**Goal:** To enhance search capabilities for KMUTT’s historical documents by implementing an AI chatbot that integrates information across different sources and provides natural, conversational answers.
+
+
+**Skills:** 
+- Natural Language Processing (NLP)
+- Machine Learning, Database Management
+- Chatbot Development
+
+
+**Technology:** 
+- Python
+- BERT (for context retrieval)
+- GPT (for generating human-like responses)
+- RAG framework for evaluation, Postgres
+
+
+**Results:** 
+- Improved accessibility and usability of archived documents
+- Achieved 0.44/1 in context retrieval and 0.81/1 in answer generation using RAG triad metrics
+- Received user evaluation scores of 2.94/5 for relevance and 2.82/5 for answer quality from KMUTT archive officers
+
+
+### 2. MERJE
+**Code:** https://github.com/kookwangs/MERJECinema
+
+**Description:** An online movie ticket booking system designed to streamline ticket reservations, payments, and customer rewards while enhancing user experience.
+
+
+**Goal:** To develop a fully functional database and web-based system for online movie ticket booking, including user registration, seat selection, payment processing, and membership benefits.
+
+
+**Skills:** 
+- Database Design & Management
+- Web Development
+- UI/UX Design
+
+
+**Technology:** 
+- SQL (MySQL for database management)
+- HTML, CSS, JavaScript (for frontend development)
+- Python/PHP (for backend development)
+
+
+**Results:** 
+- Successfully built a user-friendly ticket booking system
+- Implemented a membership and reward system for customer engagement
+- Enabled efficient management of movies, cinemas, and staff operations
+
+
+### 3. OLAVAN
+**Code:** https://github.com/kookwangs/OLAVAN
+
+**Description:** A rhythm-based game designed for visually impaired players, using sound cues to enhance accessibility and provide an engaging gaming experience.
+
+
+**Goal:** To develop an inclusive rhythm game that allows visually impaired individuals to enjoy interactive entertainment by relying on audio guidance instead of visual elements.
+
+
+**Skills:** 
+- Game Development
+- Audio Processing & Sound Design
+- User Experience (UX) for Accessibility
+- Python Programming
+
+
+**Technology:** 
+- Python
+- Pygame Library
+- Audio-based Interaction Design
+
+
+**Results:** 
+- Successfully created an accessible rhythm game designed for visually impaired users
+- Conducted real-world usability testing with visually impaired individuals at the Thailand Association of the Blind
+- Gathered feedback to improve gameplay, including sound clarity, difficulty levels, and user interaction
