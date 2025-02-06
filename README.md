@@ -101,29 +101,25 @@ This portfolio presents a variety of projects that highlight my skills in the da
 - Enabled efficient management of movies, cinemas, and staff operations
 
 
-### 3. OLAVAN
-**Code:** https://github.com/kookwangs/OLAVAN
+### 4. Discord Bot
+**Code:** https://github.com/kookwangs/discordBot
 
-**Description:** A rhythm-based game designed for visually impaired players, using sound cues to enhance accessibility and provide an engaging gaming experience.
+**Description:** Developed a custom Discord bot named "JAEW" to interact with users through predefined responses and commands. The bot serves as a fun, engaging assistant while also acting as a sandbox for testing new features.
 
 
-**Goal:** To develop an inclusive rhythm game that allows visually impaired individuals to enjoy interactive entertainment by relying on audio guidance instead of visual elements.
+**Goal:** To create a conversational Discord bot that can reply to messages intelligently, implement requested features from friends, and improve programming skills.
 
 
 **Skills:** 
-- Game Development
-- Audio Processing & Sound Design
-- User Experience (UX) for Accessibility
-- Python Programming
-
+- JavaScript (Node.js)
+- Discord bot development
+- Event handling
 
 **Technology:** 
-- Python
-- Pygame Library
-- Audio-based Interaction Design
+- Node.js
+- Discord.js
+- dotenv for environment variable management
 
 
-**Results:** 
-- Successfully created an accessible rhythm game designed for visually impaired users
-- Conducted real-world usability testing with visually impaired individuals at the Thailand Association of the Blind
-- Gathered feedback to improve gameplay, including sound clarity, difficulty levels, and user interaction
+**Results:** Successfully developed a functional and interactive Discord bot capable of responding to specific messages and commands using event-driven architecture.
+
