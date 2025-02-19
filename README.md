@@ -37,7 +37,7 @@ This portfolio presents a variety of projects that highlight my skills in the da
         AI-powered chatbot for the KMUTT archive, enhancing document search and retrieval using BERT and GPT models to provide human-like responses.
 - [**MERJE**](https://github.com/kookwangs/MERJECinema) <br>
         A movie ticket booking system with a designed database and user interface, incorporating theater locations, payment processing, and user reward points.
-- [**AWS Project: Yotube Data Analytics**](https://github.com/kookwangs/AWS-Project-Youtube-Data-Analysis)
+- [**AWS Project: Yotube Data Analytics**](https://github.com/kookwangs/AWS-Project-Youtube-Data-Analysis)<br>
         Designed and implemented a data pipeline on AWS using S3, Glue, Lambda, Athena, and QuickSight to process, clean, and visualize YouTube trending video data.
 - [**OLAVAN**](https://github.com/kookwangs/OLAVAN) <br>
         A rhythm-based game for visually impaired players, using sound as a guide to improve accessibility and enjoyment.
