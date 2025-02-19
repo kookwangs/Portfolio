@@ -131,8 +131,36 @@ This portfolio presents a variety of projects that highlight my skills in the da
 - Automated data cleaning and transformation using AWS services
 - Created insightful visualizations to track YouTube trends efficiently
 
+
+### 4. OLAVAN
+**Code:** https://github.com/kookwangs/OLAVAN
+
+**Description:** A rhythm-based game designed for visually impaired players, using sound cues to enhance accessibility and provide an engaging gaming experience.
+
+
+**Goal:** To develop an inclusive rhythm game that allows visually impaired individuals to enjoy interactive entertainment by relying on audio guidance instead of visual elements.
+
+
+**Skills:** 
+- Game Development
+- Audio Processing & Sound Design
+- User Experience (UX) for Accessibility
+- Python Programming
+
+
+**Technology:** 
+- Python
+- Pygame Library
+- Audio-based Interaction Design
+
+
+**Results:** 
+- Successfully created an accessible rhythm game designed for visually impaired users
+- Conducted real-world usability testing with visually impaired individuals at the Thailand Association of the Blind
+- Gathered feedback to improve gameplay, including sound clarity, difficulty levels, and user interaction
+
   
-### 4. Discord Bot
+### 5. Discord Bot
 **Code:** https://github.com/kookwangs/discordBot
 
 **Description:** Developed a custom Discord bot named "JAEW" to interact with users through predefined responses and commands. The bot serves as a fun, engaging assistant while also acting as a sandbox for testing new features.
