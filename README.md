@@ -37,6 +37,8 @@ This portfolio presents a variety of projects that highlight my skills in the da
         AI-powered chatbot for the KMUTT archive, enhancing document search and retrieval using BERT and GPT models to provide human-like responses.
 - [**MERJE**](https://github.com/kookwangs/MERJECinema) <br>
         A movie ticket booking system with a designed database and user interface, incorporating theater locations, payment processing, and user reward points.
+- [**AWS Project: Yotube Data Analytics**](https://github.com/kookwangs/AWS-Project-Youtube-Data-Analysis)
+        Designed and implemented a data pipeline on AWS using S3, Glue, Lambda, Athena, and QuickSight to process, clean, and visualize YouTube trending video data.
 - [**OLAVAN**](https://github.com/kookwangs/OLAVAN) <br>
         A rhythm-based game for visually impaired players, using sound as a guide to improve accessibility and enjoyment.
 - [**Hands Up**](https://github.com/kookwangs/HandsUpGameProject) <br>
@@ -101,6 +103,35 @@ This portfolio presents a variety of projects that highlight my skills in the da
 - Enabled efficient management of movies, cinemas, and staff operations
 
 
+### 3. AWS Project: Youtube Data Analysis
+**Code:** [https://github.com/kookwangs/MERJECinema](https://github.com/kookwangs/AWS-Project-Youtube-Data-Analysis)
+
+**Description:** Built a data pipeline on AWS to process, clean, and analyze trending YouTube video data, enabling efficient data exploration and visualization.
+
+
+**Goal:** To gain hands-on experience with AWS services by developing a scalable ETL pipeline that extracts, transforms, and loads YouTube trending video data for analysis and visualization.
+
+
+**Skills:** 
+- Cloud Data Engineering
+- ETL Development
+- Data Analysis & Visualization
+
+
+**Technology:** 
+- AWS S3 (data storage)
+- AWS Glue (ETL processing)
+- AWS Lambda (data cleaning)
+- Amazon Athena (querying)
+- Amazon QuickSight (data visualization)
+
+
+**Results:** 
+- Successfully processed and analyzed YouTube trending video data across multiple regions
+- Automated data cleaning and transformation using AWS services
+- Created insightful visualizations to track YouTube trends efficiently
+
+  
 ### 4. Discord Bot
 **Code:** https://github.com/kookwangs/discordBot
 
