@@ -39,7 +39,7 @@ This portfolio presents a variety of projects that highlight my skills in the da
         A movie ticket booking system with a designed database and user interface, incorporating theater locations, payment processing, and user reward points.
 - [**AWS Project: Yotube Data Analytics**](https://github.com/kookwangs/AWS-Project-Youtube-Data-Analysis)<br>
         Designed and implemented a data pipeline on AWS using S3, Glue, Lambda, Athena, and QuickSight to process, clean, and visualize YouTube trending video data.
-- **PostgreSQL Data Modeling: DVD Rental in 3NF & Star Schema**
+- [**PostgreSQL Data Modeling: DVD Rental in 3NF & Star Schema**](https://github.com/kookwangs/PostgreSQL-Data-Modeling-DVD-Rental-in-3NF-Star-Schema)<br>
         Designed and transformed the DVD Rental database from 3NF to a Star Schema in PostgreSQL to optimize query performance. Gained hands-on experience with PostgreSQL, pgAdmin, CLI commands, and data import processes.
 - [**OLAVAN**](https://github.com/kookwangs/OLAVAN) <br>
         A rhythm-based game for visually impaired players, using sound as a guide to improve accessibility and enjoyment.
@@ -133,8 +133,36 @@ This portfolio presents a variety of projects that highlight my skills in the da
 - Automated data cleaning and transformation using AWS services
 - Created insightful visualizations to track YouTube trends efficiently
 
+### 4. PostgreSQL Data Modeling: DVD Rental in 3NF & Star Schema
+**Code:** [https://github.com/kookwangs/PostgreSQL-Data-Modeling-DVD-Rental-in-3NF-Star-Schema]
 
-### 4. OLAVAN
+**Description:** Designed and implemented a PostgreSQL database using the DVD Rental dataset, structured in both 3NF and Star Schema to optimize query performance and data analysis.
+
+
+**Goal:** To gain hands-on experience with PostgreSQL by importing a sample database, understanding its 3NF structure, and transforming it into a Star Schema for improved analytical capabilities.
+
+
+**Skills:** 
+- Database Design & Normalization
+- Data Warehousing Concepts
+- PostgreSQL Administration
+- SQL (DDL, DML, ETL)
+
+
+**Technology:** 
+- PostgreSQL
+- pgAdmin
+- SQL (Structured Query Language)
+
+
+**Results:** 
+- Successfully imported and explored the DVD Rental database in PostgreSQL
+- Designed and implemented a Star Schema for efficient querying and reporting
+- Gained practical experience in database modeling, ETL, and query optimization
+
+
+
+### 5. OLAVAN
 **Code:** https://github.com/kookwangs/OLAVAN
 
 **Description:** A rhythm-based game designed for visually impaired players, using sound cues to enhance accessibility and provide an engaging gaming experience.
@@ -162,7 +190,7 @@ This portfolio presents a variety of projects that highlight my skills in the da
 - Gathered feedback to improve gameplay, including sound clarity, difficulty levels, and user interaction
 
   
-### 5. Discord Bot
+### 6. Discord Bot
 **Code:** https://github.com/kookwangs/discordBot
 
 **Description:** Developed a custom Discord bot named "JAEW" to interact with users through predefined responses and commands. The bot serves as a fun, engaging assistant while also acting as a sandbox for testing new features.
