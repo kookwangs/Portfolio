@@ -41,6 +41,8 @@ This portfolio presents a variety of projects that highlight my skills in the da
         Designed and implemented a data pipeline on AWS using S3, Glue, Lambda, Athena, and QuickSight to process, clean, and visualize YouTube trending video data.
 - [**PostgreSQL Data Modeling: DVD Rental in 3NF & Star Schema**](https://github.com/kookwangs/PostgreSQL-Data-Modeling-DVD-Rental-in-3NF-Star-Schema)<br>
         Designed and transformed the DVD Rental database from 3NF to a Star Schema in PostgreSQL to optimize query performance. Gained hands-on experience with PostgreSQL, pgAdmin, CLI commands, and data import processes.
+- [**MongoDB Project: CRUD Operations & ETL with PyMongo**]<br>
+        Designed and implemented a MongoDB database using Pymongo in Python, performing CRUD operations and building a data ETL pipeline in Jupyter Notebook.
 - [**OLAVAN**](https://github.com/kookwangs/OLAVAN) <br>
         A rhythm-based game for visually impaired players, using sound as a guide to improve accessibility and enjoyment.
 - [**Hands Up**](https://github.com/kookwangs/HandsUpGameProject) <br>
