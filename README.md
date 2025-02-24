@@ -41,7 +41,7 @@ This portfolio presents a variety of projects that highlight my skills in the da
         Designed and implemented a data pipeline on AWS using S3, Glue, Lambda, Athena, and QuickSight to process, clean, and visualize YouTube trending video data.
 - [**PostgreSQL Data Modeling: DVD Rental in 3NF & Star Schema**](https://github.com/kookwangs/PostgreSQL-Data-Modeling-DVD-Rental-in-3NF-Star-Schema)<br>
         Designed and transformed the DVD Rental database from 3NF to a Star Schema in PostgreSQL to optimize query performance. Gained hands-on experience with PostgreSQL, pgAdmin, CLI commands, and data import processes.
-- [**MongoDB Project: CRUD Operations & ETL with PyMongo**]<br>
+- [**MongoDB Project: CRUD Operations & ETL with PyMongo**](https://github.com/kookwangs/MongoDB-Project-CRUD-Operations-ETL-with-PyMongo)<br>
         Designed and implemented a MongoDB database using Pymongo in Python, performing CRUD operations and building a data ETL pipeline in Jupyter Notebook.
 - [**OLAVAN**](https://github.com/kookwangs/OLAVAN) <br>
         A rhythm-based game for visually impaired players, using sound as a guide to improve accessibility and enjoyment.
@@ -163,8 +163,38 @@ This portfolio presents a variety of projects that highlight my skills in the da
 - Gained practical experience in database modeling, ETL, and query optimization
 
 
+### 5. MongoDB Project: CRUD Operations & ETL with PyMongo
+**Code:** [https://github.com/kookwangs/MongoDB-Project-CRUD-Operations-ETL-with-PyMongo]
 
-### 5. OLAVAN
+**Description:** Designed and implemented a MongoDB database using PyMongo in Python, performing CRUD operations and building a data ETL pipeline in Jupyter Notebook. The project involved setting up a MongoDB cluster, creating databases and collections, and manipulating data efficiently.
+
+
+**Goal:** To gain hands-on experience with MongoDB and PyMongo by performing CRUD operations, developing an ETL pipeline, and implementing error handling for efficient data processing.
+
+
+**Skills:** 
+- NoSQL Database Management
+- CRUD Operations (Create, Read, Update, Delete)
+- Data Extraction, Transformation, and Loading (ETL)
+- Python Programming & PyMongo
+
+
+**Technology:** 
+- MongoDB
+- PyMongo
+- Jupyter Notebook
+- Python
+
+
+**Results:** 
+- Successfully connected and interacted with MongoDB using PyMongo
+- Created a database with collections and performed CRUD operations
+- Developed an ETL pipeline for data transformation and reloading
+- Implemented error handling to ensure robust and efficient data processing
+
+
+
+### 6. OLAVAN
 **Code:** https://github.com/kookwangs/OLAVAN
 
 **Description:** A rhythm-based game designed for visually impaired players, using sound cues to enhance accessibility and provide an engaging gaming experience.
@@ -192,7 +222,7 @@ This portfolio presents a variety of projects that highlight my skills in the da
 - Gathered feedback to improve gameplay, including sound clarity, difficulty levels, and user interaction
 
   
-### 6. Discord Bot
+### 7. Discord Bot
 **Code:** https://github.com/kookwangs/discordBot
 
 **Description:** Developed a custom Discord bot named "JAEW" to interact with users through predefined responses and commands. The bot serves as a fun, engaging assistant while also acting as a sandbox for testing new features.
