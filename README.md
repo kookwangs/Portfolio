@@ -4,7 +4,7 @@ This repository presents my information, skills, and projects while tracking my 
 
 ## About me
 **Based:** Nonthaburi, Thailand <br>
-**Current Role:** Aspiring Database Engineer, Data Enthusiast <br>
+**Current Role:** Aspiring Database Engineer, Data Engineer <br>
 **Email:** kunanya.khu@gmail.com <br>
 **LinkedIn:** www.linkedin.com/in/kunanya-khuntiptong <br>
 
@@ -12,7 +12,7 @@ This repository presents my information, skills, and projects while tracking my 
 Hello! I'm Kunanya Khuntiptong, a recent Computer Engineering graduate passionate about data and its potential to solve complex problems. Throughout my academic journey, I’ve built a strong foundation in software development, systems engineering, and data management. With a special interest in database technologies, I’m currently **pursuing a career in Database Engineering**, where I can use my technical skills and problem-solving abilities to create efficient data solutions.
 
 
-During my time at KMUTT, I explored various fields, including web development, AI, and data science. However, I found myself most drawn to the data field. Writing SQL felt both fun and challenging, especially when working with large datasets and uncovering meaningful insights. I enjoyed designing database structures for different projects and requirements, and working with both relational and NoSQL databases. Through hands-on experience in course projects, I discovered how much I liked solving data-related problems and helping others with database design.
+During my time at KMUTT, I explored various fields, including **web development**, **AI**, and data **science**. However, I found myself most drawn to the data field. Writing SQL felt both fun and challenging, especially when working with large datasets and uncovering meaningful insights. I enjoyed designing database structures for different projects and requirements, and working with both relational and NoSQL databases. Through hands-on experience in course projects, I discovered how much I liked solving data-related problems and helping others with database design.
 
 
 I understand that real-world projects are much more complex than coursework, with many challenges beyond what I’ve learned. That’s why I’m eager to dive deeper, gain hands-on experience, and continue learning in a professional setting.
@@ -34,21 +34,21 @@ This portfolio presents a variety of projects that highlight my skills in the da
 
 ### Table of Contents
 - [**AI Chatbot for KMUTT Archive Storytelling**](https://github.com/kookwangs/AIChatbotForArchiveStoryTelling) <br>
-        AI-powered chatbot for the KMUTT archive, enhancing document search and retrieval using BERT and GPT models to provide human-like responses.
+        **AI-powered chatbot** for the KMUTT archive, enhancing document search and retrieval using **BERT** and **GPT** models to provide human-like responses.
 - [**MERJE**](https://github.com/kookwangs/MERJECinema) <br>
-        A movie ticket booking system with a designed database and user interface, incorporating theater locations, payment processing, and user reward points.
+        **A movie ticket booking system** with a designed database and user interface, incorporating theater locations, payment processing, and user reward points.
 - [**AWS Project: Yotube Data Analytics**](https://github.com/kookwangs/AWS-Project-Youtube-Data-Analysis)<br>
-        Designed and implemented a data pipeline on AWS using S3, Glue, Lambda, Athena, and QuickSight to process, clean, and visualize YouTube trending video data.
+        Designed and implemented a data pipeline on **AWS using S3, Glue, Lambda, Athena, and QuickSight** to process, clean, and visualize YouTube trending video data.
 - [**PostgreSQL Data Modeling: DVD Rental in 3NF & Star Schema**](https://github.com/kookwangs/PostgreSQL-Data-Modeling-DVD-Rental-in-3NF-Star-Schema)<br>
-        Designed and transformed the DVD Rental database from 3NF to a Star Schema in PostgreSQL to optimize query performance. Gained hands-on experience with PostgreSQL, pgAdmin, CLI commands, and data import processes.
+        Designed and transformed the DVD Rental database from 3NF to a Star Schema in **PostgreSQL** to optimize query performance. Gained hands-on experience with PostgreSQL, pgAdmin, CLI commands, and data import processes.
 - [**MongoDB Project: CRUD Operations & ETL with PyMongo**](https://github.com/kookwangs/MongoDB-Project-CRUD-Operations-ETL-with-PyMongo)<br>
-        Designed and implemented a MongoDB database using Pymongo in Python, performing CRUD operations and building a data ETL pipeline in Jupyter Notebook.
+        Designed and implemented a **MongoDB database** using Pymongo in Python, performing CRUD operations and building a data ETL pipeline in Jupyter Notebook.
 - [**OLAVAN**](https://github.com/kookwangs/OLAVAN) <br>
-        A rhythm-based game for visually impaired players, using sound as a guide to improve accessibility and enjoyment.
+        **A rhythm-based game for visually impaired players**, using sound as a guide to improve accessibility and enjoyment.
 - [**Hands Up**](https://github.com/kookwangs/HandsUpGameProject) <br>
-        A rhythm game where players score points to the beat, choose songs and difficulty levels, and play using a Kinect Sensor on a computer.
+        **A rhythm game** where players score points to the beat, choose songs and difficulty levels, and play using **a Kinect Sensor** on a computer.
 - [**Discord Bot**](https://github.com/kookwangs/discordBot) <br>
-        A Discord bot named JAEW, created as a fun AI sister to respond to messages, test new features, and improve my coding skills.
+        **A Discord bot** named JAEW, created as a fun AI sister to respond to messages, test new features, and improve my coding skills.
 
 
 ### 1. AI Chatbot for KMUTT Archive Storytelling
@@ -108,7 +108,7 @@ This portfolio presents a variety of projects that highlight my skills in the da
 
 
 ### 3. AWS Project: Youtube Data Analysis
-**Code:** [https://github.com/kookwangs/MERJECinema](https://github.com/kookwangs/AWS-Project-Youtube-Data-Analysis)
+**Code:** https://github.com/kookwangs/AWS-Project-Youtube-Data-Analysis
 
 **Description:** Built a data pipeline on AWS to process, clean, and analyze trending YouTube video data, enabling efficient data exploration and visualization.
 
@@ -136,7 +136,7 @@ This portfolio presents a variety of projects that highlight my skills in the da
 - Created insightful visualizations to track YouTube trends efficiently
 
 ### 4. PostgreSQL Data Modeling: DVD Rental in 3NF & Star Schema
-**Code:** [https://github.com/kookwangs/PostgreSQL-Data-Modeling-DVD-Rental-in-3NF-Star-Schema]
+**Code:** https://github.com/kookwangs/PostgreSQL-Data-Modeling-DVD-Rental-in-3NF-Star-Schema
 
 **Description:** Designed and implemented a PostgreSQL database using the DVD Rental dataset, structured in both 3NF and Star Schema to optimize query performance and data analysis.
 
@@ -164,7 +164,7 @@ This portfolio presents a variety of projects that highlight my skills in the da
 
 
 ### 5. MongoDB Project: CRUD Operations & ETL with PyMongo
-**Code:** [https://github.com/kookwangs/MongoDB-Project-CRUD-Operations-ETL-with-PyMongo]
+**Code:** https://github.com/kookwangs/MongoDB-Project-CRUD-Operations-ETL-with-PyMongo
 
 **Description:** Designed and implemented a MongoDB database using PyMongo in Python, performing CRUD operations and building a data ETL pipeline in Jupyter Notebook. The project involved setting up a MongoDB cluster, creating databases and collections, and manipulating data efficiently.
 
